@@ -35,7 +35,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
    ```shell
    cd dashboard
-   streamlit dashboard_bike_sharing.py
+   streamlit run dashboard_bike_sharing.py
    ```
 
    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
@@ -46,8 +46,3 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
    <img src="./dashboard/ss streamlit 4.png" alt="Streamlit logo"></img>
    <img src="./dashboard/ss streamlit 5.png" alt="Streamlit logo"></img>
 
-
-
-## Kontribusi
-
-Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
