@@ -26,7 +26,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Penggunaan
@@ -34,8 +34,8 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Masuk ke direktori proyek (Local):
 
    ```shell
-   cd dicoding/dashboard/
-   streamlit run main.py
+   cd dashboard
+   streamlit dashboard_bike_sharing.py
    ```
 
    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
